@@ -9,7 +9,7 @@
 Both should be installed and make sure mongodb is running locally.
 
 ```shell
-git clone https://github.com/Ishant2004/real-time-chat-app.git
+https://github.com/Abhishek7632/Real-time-chat.git
 cd real-time-chat-app
 ```
 
